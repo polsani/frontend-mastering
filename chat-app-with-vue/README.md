@@ -6,6 +6,11 @@ Project based on article **[SitePoint](https://www.sitepoint.com/pusher-vue-real
 
 ## Executing locally
 
+```shell
+> cd chat-app-vue
+> npm run serve
+```
+
 ## Next Steps
 
 ## Additional resources
